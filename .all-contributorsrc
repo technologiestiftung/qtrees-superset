@@ -17,9 +17,9 @@
       "profile": "https://github.com/julizet",
       "contributions": [
         "code"
-        ]
-        },
-        {
+      ]
+    },
+    {
       "login": "ff6347",
       "name": "Fabian Morón Zirfas",
       "avatar_url": "https://avatars.githubusercontent.com/u/315106?v=4",
@@ -27,10 +27,12 @@
       "contributions": [
         "code",
         "infra",
-        "ideas"
+        "ideas",
+        "doc"
       ]
     }
   ],
   "contributorsPerLine": 7,
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs"
 }
